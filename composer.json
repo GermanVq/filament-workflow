@@ -1,0 +1,20 @@
+{
+    "name": "germanvq/filament-workflow",
+    "description": "Workflow creator for Laravel Filament models",
+    "type": "composer-plugin",
+    "require": {
+        "filament/filament": "^3.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Germanvq\\FilamentWorkflow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GermanVq",
+            "email": "gavegaq@gmail.com"
+        }
+    ]
+}
